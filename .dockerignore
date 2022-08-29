@@ -6,6 +6,7 @@ README.md
 __pycache__
 .pytest_cache
 .gitignore
+**/.git
 
 .venv/
 .history/

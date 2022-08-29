@@ -1,0 +1,12 @@
+version: '1'
+services:
+    web:
+        build: .
+        ports:
+            - "80:5000"
+        volumes:
+            - .:/app
+        depends_on:
+            - redis
+    redis:
+        image: redis
