@@ -40,8 +40,8 @@ COPY . .
 # For environments with multiple CPU cores, increase the number of workers
 # to be equal to the cores available.
 # Timeout is set to 0 to disable the timeouts of the workers to allow Cloud Run to handle instance scaling.
-ENV FLASK_APP=main.py
+ENV FLASK_APP=src/app.py
 ENV FLASK_RUN_HOST=0.0.0.0
-ENV FLASK_ENV=development 
+ENV FLASK_ENV=development
 
 CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0"]

@@ -1,19 +1,12 @@
 .venv/
 .history/
 .vscode/
+.ipynb_checkpoints/
 
-models/
-datasets/
+__pycache__/
+src/models/
+src/datasets/
+src/prediction/
 
-scripts/__pycache__/
-scripts/prediction_scripts/__pycache__/
-scripts/analysis_scripts/__pycache__/
-scripts/prediction_scripts/__pycache__/
-scripts/prediction_scripts/data_models/__pycache__/
-*__pycache__/*
-
-scripts/local_scripts/
-scripts/analysis_scripts/test.py
-
-config.json
-credentials.json
+src/test/
+src/credentials/
