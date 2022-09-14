@@ -1,0 +1,3 @@
+,avg_point_difference,avg_perc_close,avg_perc_predicted,avg_perc_difference,avg_error_predicted
+/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/DIA/DIA-mins-2epochs-extracol-validation.csv,-0.4415620759385934,0.0004313305286343,0.0004087975357984,-2.2532992835922857e-05,-0.1421973522551485
+/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/DIA/DIA-days-100epochs-extracol-validation.csv,-2.34089595505618,0.033870629209928865,0.04793152603612883,0.014060896826199973,-0.6435820787081996

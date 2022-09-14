@@ -1,0 +1,4 @@
+,date,model,avg_point_difference,avg_perc_close,avg_perc_predicted,avg_perc_difference,avg_error_predicted
+0,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/ABNB/ABNB-mins-2epochs-extracol-validation.csv,-2.036360439760604,0.0016369963723301,0.0013907058425071,-0.000246290529823,-1.0351830685681171
+1,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/ABNB/ABNB-days-100epochs-extracol-validation.csv,-5.854775675675674,0.21558678979177,0.0408547124474113,-0.1747320773443587,-3.0126349322052426
+2,2021-12-04,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/ABNB/ABNB-days-100epochs-extracol-validation.csv,-5.495813698630136,0.23940991742041107,0.27534773567163306,0.03593781825122206,-2.9625313580571064

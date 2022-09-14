@@ -1,0 +1,6 @@
+data,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/PLTR/PLTR-mins-2epochs-extracol-validation.csv,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/PLTR/PLTR-days-100epochs-extracol-validation.csv
+avg_point_difference,-0.0320219698351526,-0.7548213333333333
+avg_perc_close,9.185609551476752e-05,-0.0405163957821351
+avg_perc_predicted,6.67619130034061e-05,-0.025159080733255346
+avg_perc_difference,-2.509418251136143e-05,0.015357315048879685
+avg_error_predicted,-0.1398205488721558,-3.159368584817625

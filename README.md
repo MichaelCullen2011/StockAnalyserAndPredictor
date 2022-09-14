@@ -15,7 +15,7 @@ There are also presets to save scraped data to a google cloud platform SQL datab
 To look at the code just fork this repo and set up a virtual environment and install requirements.txt using
 ```
 python -m venv .venv
-.venv\Scripts\activate.bat
+.venv\bin\activate
 pip install -r 'requirements.txt'
 ```
 
@@ -24,7 +24,7 @@ pip install -r 'requirements.txt'
 ##### Portfolio Analysis
 To run the scripts, edit data\portfolio_simple.csv to your own portfolio and run through the commands in basic_analysis.py.
 ```
-python scripts/analysis_scripts/basic_analysis.py
+python src/analysis/basic_analysis.py
 ```
 This will produce an analysed portfolio_analysed.csv file with further information.
 ![alt text](https://github.com/MichaelCullen2011/StockAnalyserAndPredictor/blob/main/src/images/analysed_csv.png?raw=true)
@@ -35,21 +35,21 @@ The backtesting strategy follow the red white blue strategy of buying and sellin
 
 Edit the script so that the stocks list and start date are to your custom values and then run the script using
 ```
-python scripts/analysis_scripts/backtest.py
+python src/analysis/backtest.py
 ```
 ![alt text](https://github.com/MichaelCullen2011/StockAnalyserAndPredictor/blob/main/src/images/backtest.png?raw=true)
 
 ##### Greenline
 This script calculates the last solid green line, providing the price and the date. These greenlines are good indicators for the last safe price of a stock.
 ```
-python scripts/analysis_scripts/greenline.py
+python src/analysis/greenline.py
 ```
 ![alt text](https://github.com/MichaelCullen2011/StockAnalyserAndPredictor/blob/main/src/images/greenline.png?raw=true)
 
 ##### Resistance and Pivots
 This script calculates the pivot points of a stock and plots them. Once again the stocks and the start date can be edited within the script to customise your data.
 ```
-python scripts/analysis_scripts/resistance_and_pivots.py
+python src/analysis/resistance_and_pivots.py
 ```
 ![alt text](https://github.com/MichaelCullen2011/StockAnalyserAndPredictor/blob/main/src/images/pivots.png?raw=true)
 
@@ -57,7 +57,7 @@ python scripts/analysis_scripts/resistance_and_pivots.py
 ##### Trading View
 This script calculates shows a trading view of a stock. 
 ```
-python scripts/analysis_scripts/trading_view.py
+python src/analysis/trading_view.py
 ```
 ![alt text](https://github.com/MichaelCullen2011/StockAnalyserAndPredictor/blob/main/src/images/tradingview.png?raw=true)
 
@@ -66,15 +66,7 @@ python scripts/analysis_scripts/trading_view.py
 ##### Create and Run Models
 This trains models based on a selection of stock symbols. Using a 'day' timescale the models can then predict into the future.
 
-To use, edit the symbols list in model_create_predict.py
-
-```
-python scripts/prediction_scripts/model_create_predict.py
-```
-
 ![alt text](https://github.com/MichaelCullen2011/StockAnalyserAndPredictor/blob/main/src/images/predictor_new.png?raw=true)
-
-
 
 
 ## Authors

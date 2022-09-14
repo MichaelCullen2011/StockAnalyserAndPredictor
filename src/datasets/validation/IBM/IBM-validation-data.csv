@@ -1,0 +1,6 @@
+data,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/IBM/IBM-mins-2epochs-extracol-validation.csv,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/IBM/IBM-days-100epochs-extracol-validation.csv
+avg_point_difference,0.0655204488456672,-2.311611191780823
+avg_perc_close,-7.958928669674436e-05,-0.1428217547575999
+avg_perc_predicted,-0.0001064326346639,-0.12539567606917507
+avg_perc_difference,-2.6843347967168297e-05,0.017426078688424794
+avg_error_predicted,0.0527979904593901,-1.823783528148405

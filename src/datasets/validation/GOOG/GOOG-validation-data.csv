@@ -1,0 +1,6 @@
+data,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/GOOG/GOOG-mins-2epochs-extracol-validation.csv,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/GOOG/GOOG-days-100epochs-extracol-validation.csv
+avg_point_difference,-30.33132693009801,-99.6316202247191
+avg_perc_close,0.0024628106407732,0.19958321387660546
+avg_perc_predicted,0.0020760850590634,0.16332369741098027
+avg_perc_difference,-0.0003867255817097,-0.03625951646562522
+avg_error_predicted,-1.283940541218536,-3.471806811620089

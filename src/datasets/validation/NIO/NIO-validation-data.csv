@@ -1,0 +1,6 @@
+data,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/NIO/NIO-mins-2epochs-extracol-validation.csv,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/NIO/NIO-days-100epochs-extracol-validation.csv
+avg_point_difference,-0.1665112946395972,0.7233315786516852
+avg_perc_close,-0.0002338249748403,0.003938813720786778
+avg_perc_predicted,-0.000285880276312,0.01035027520167585
+avg_perc_difference,-5.2055301471758136e-05,0.006411461480889256
+avg_error_predicted,-0.3911565557504673,1.8445907495140776

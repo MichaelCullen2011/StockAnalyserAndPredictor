@@ -1,0 +1,6 @@
+data,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/AMZN/AMZN-mins-2epochs-extracol-validation.csv,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/AMZN/AMZN-days-100epochs-extracol-validation.csv
+avg_point_difference,2.6051592538104944,-17.815928651685393
+avg_perc_close,0.0001099980706419,0.07191892911093707
+avg_perc_predicted,9.613513950636554e-05,0.06938760013383943
+avg_perc_difference,-1.3862931135599325e-05,-0.002531328977097633
+avg_error_predicted,0.0798998756700456,-0.42503883880560706

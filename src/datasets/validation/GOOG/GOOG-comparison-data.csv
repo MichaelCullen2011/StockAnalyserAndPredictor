@@ -1,0 +1,4 @@
+,date,model,avg_point_difference,avg_perc_close,avg_perc_predicted,avg_perc_difference,avg_error_predicted
+0,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/GOOG/GOOG-mins-2epochs-extracol-validation.csv,-30.33132693009801,0.0024628106407732,0.0020760850590634,-0.0003867255817097,-1.283940541218536
+1,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/GOOG/GOOG-days-100epochs-extracol-validation.csv,-52.15953783783784,0.1228141563379528,-0.0172251660365777,-0.1400393223745306,-1.7166942506847418
+2,2021-12-04,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/GOOG/GOOG-days-100epochs-extracol-validation.csv,-99.6316202247191,0.19958321387660546,0.16332369741098027,-0.03625951646562522,-3.471806811620089

@@ -1,0 +1,4 @@
+,date,model,avg_point_difference,avg_perc_close,avg_perc_predicted,avg_perc_difference,avg_error_predicted
+0,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/PLTR/PLTR-mins-2epochs-extracol-validation.csv,-0.0320219698351526,9.185609551476752e-05,6.67619130034061e-05,-2.509418251136143e-05,-0.1398205488721558
+1,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/PLTR/PLTR-days-100epochs-extracol-validation.csv,-0.5039855405405403,-0.3157784916596071,-0.3059758628162804,0.0098026288433266,-2.33570558573569
+2,2021-12-04,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/PLTR/PLTR-days-100epochs-extracol-validation.csv,-0.7548213333333333,-0.0405163957821351,-0.025159080733255346,0.015357315048879685,-3.159368584817625

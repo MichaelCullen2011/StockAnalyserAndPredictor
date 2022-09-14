@@ -1,0 +1,6 @@
+data,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/GME/GME-mins-2epochs-extracol-validation.csv,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/GME/GME-days-100epochs-extracol-validation.csv
+avg_point_difference,-0.8366639101734323,-18.546818238993712
+avg_perc_close,0.0030883507644441,0.21752575985380904
+avg_perc_predicted,0.0028383799566514,0.12658702256152093
+avg_perc_difference,-0.0002499708077926,-0.09093873729228799
+avg_error_predicted,-0.4713785097323603,-8.903811052392008

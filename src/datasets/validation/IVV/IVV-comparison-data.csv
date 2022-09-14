@@ -1,0 +1,4 @@
+,date,model,avg_point_difference,avg_perc_close,avg_perc_predicted,avg_perc_difference,avg_error_predicted
+0,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/IVV/IVV-mins-2epochs-extracol-validation.csv,0.083461710012413,0.0004153966627369,0.0003983243389764,-1.707232376051552e-05,0.0242771245749285
+1,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/IVV/IVV-days-100epochs-extracol-validation.csv,-7.249914864864865,0.1682953391727902,0.0685059784528701,-0.0997893607199201,-1.447212155816315
+2,2021-12-04,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/IVV/IVV-days-100epochs-extracol-validation.csv,-12.142350786516852,0.08565511447950314,0.08572814759131085,7.303311180770603e-05,-2.6838225981508814

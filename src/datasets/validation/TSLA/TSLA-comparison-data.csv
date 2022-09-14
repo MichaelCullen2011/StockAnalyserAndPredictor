@@ -1,0 +1,3 @@
+,date,model,avg_point_difference,avg_perc_close,avg_perc_predicted,avg_perc_difference,avg_error_predicted
+0,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/TSLA/TSLA-days-100epochs-extracol-validation.csv,-126.07692270270267,1.1561484862530778,0.7263539332872235,-0.4297945529658546,-10.868071183050482
+1,2021-12-04,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/TSLA/TSLA-days-100epochs-extracol-validation.csv,-7.741571348314606,0.32574065221924986,0.28904354904849416,-0.036697103170755745,-0.27871122804023113

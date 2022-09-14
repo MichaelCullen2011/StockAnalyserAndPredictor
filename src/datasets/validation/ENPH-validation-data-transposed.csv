@@ -1,0 +1,3 @@
+,avg_point_difference,avg_perc_close,avg_perc_predicted,avg_perc_difference,avg_error_predicted
+/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/ENPH/ENPH-mins-2epochs-extracol-validation.csv,-1.0036086290363426,0.0105460790820554,0.0083899115505919,-0.0021561675314635,-0.1633523835599419
+/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/ENPH/ENPH-days-100epochs-extracol-validation.csv,-6.736869780898876,0.2831103895473348,0.28190720180809015,-0.0012031877392447163,-3.1297123827474853

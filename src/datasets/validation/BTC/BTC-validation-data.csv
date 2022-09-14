@@ -1,0 +1,6 @@
+data,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/BTC/BTC-days-100epochs-extracol-validation.csv,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/BTC/BTC-mins-2epochs-extracol-validation.csv
+avg_point_difference,-8126.241490740741,85.91167337357486
+avg_perc_close,0.33404170237821507,-0.0001009699526066
+avg_perc_predicted,0.2604924522175637,-5.800417047874456e-06
+avg_perc_difference,-0.07354925016065139,9.5169535558782e-05
+avg_error_predicted,-16.431036421850532,0.1693110584562446

@@ -1,0 +1,4 @@
+,date,model,avg_point_difference,avg_perc_close,avg_perc_predicted,avg_perc_difference,avg_error_predicted
+0,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/GME/GME-mins-2epochs-extracol-validation.csv,-0.8366639101734323,0.0030883507644441,0.0028383799566514,-0.0002499708077926,-0.4713785097323603
+1,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/GME/GME-days-100epochs-extracol-validation.csv,-3.3068854054054047,0.3657610494661767,0.3099786181499305,-0.0557824313162462,-1.0982230816455774
+2,2021-12-04,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/GME/GME-days-100epochs-extracol-validation.csv,-18.546818238993712,0.21752575985380904,0.12658702256152093,-0.09093873729228799,-8.903811052392008

@@ -1,0 +1,6 @@
+data,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/ABNB/ABNB-mins-2epochs-extracol-validation.csv,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/ABNB/ABNB-days-100epochs-extracol-validation.csv
+avg_point_difference,-2.036360439760604,-5.495813698630136
+avg_perc_close,0.0016369963723301,0.23940991742041107
+avg_perc_predicted,0.0013907058425071,0.27534773567163306
+avg_perc_difference,-0.000246290529823,0.03593781825122206
+avg_error_predicted,-1.0351830685681171,-2.9625313580571064

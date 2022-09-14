@@ -1,0 +1,6 @@
+data,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/IVV/IVV-mins-2epochs-extracol-validation.csv,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/IVV/IVV-days-100epochs-extracol-validation.csv
+avg_point_difference,0.083461710012413,-12.142350786516852
+avg_perc_close,0.0004153966627369,0.08565511447950314
+avg_perc_predicted,0.0003983243389764,0.08572814759131085
+avg_perc_difference,-1.707232376051552e-05,7.303311180770603e-05
+avg_error_predicted,0.0242771245749285,-2.6838225981508814

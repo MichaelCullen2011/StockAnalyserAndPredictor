@@ -1,0 +1,3 @@
+,avg_point_difference,avg_perc_close,avg_perc_predicted,avg_perc_difference,avg_error_predicted
+/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/ETSY/ETSY-mins-2epochs-extracol-validation.csv,0.0546116536239604,0.0009029324799868,0.0007421341603201,-0.0001607983196667,0.0301322054409847
+/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/ETSY/ETSY-days-100epochs-extracol-validation.csv,-2.117696348314608,0.1469440461754996,0.1601211204953276,0.01317707431982792,-0.5960605271558315

@@ -1,0 +1,6 @@
+data,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/TSLA/TSLA-days-100epochs-extracol-validation.csv
+avg_point_difference,-7.741571348314606
+avg_perc_close,0.32574065221924986
+avg_perc_predicted,0.28904354904849416
+avg_perc_difference,-0.036697103170755745
+avg_error_predicted,-0.27871122804023113

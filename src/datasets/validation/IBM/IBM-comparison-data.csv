@@ -1,0 +1,4 @@
+,date,model,avg_point_difference,avg_perc_close,avg_perc_predicted,avg_perc_difference,avg_error_predicted
+0,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/IBM/IBM-mins-2epochs-extracol-validation.csv,0.0655204488456672,-7.958928669674436e-05,-0.0001064326346639,-2.6843347967168297e-05,0.0527979904593901
+1,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/IBM/IBM-days-100epochs-extracol-validation.csv,3.033680621621623,-0.3923798852254601,-0.3740527163774623,0.0183271688479977,2.1254622169598245
+2,2021-12-04,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/IBM/IBM-days-100epochs-extracol-validation.csv,-2.311611191780823,-0.1428217547575999,-0.12539567606917507,0.017426078688424794,-1.823783528148405

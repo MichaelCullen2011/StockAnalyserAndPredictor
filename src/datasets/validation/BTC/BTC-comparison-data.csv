@@ -1,0 +1,4 @@
+,date,model,avg_point_difference,avg_perc_close,avg_perc_predicted,avg_perc_difference,avg_error_predicted
+0,2021-12-10,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/BTC/BTC-days-100epochs-extracol-validation.csv,-8276.94469639066,0.3983772465628697,0.2963389615015628,-0.1020382850613069,-16.58967354282181
+1,2021-12-10,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/BTC/BTC-mins-2epochs-extracol-validation.csv,85.91167337357486,-0.0001009699526066,-5.800417047874456e-06,9.5169535558782e-05,0.1693110584562446
+2,2022-01-26,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/BTC/BTC-days-100epochs-extracol-validation.csv,-8126.241490740741,0.33404170237821507,0.2604924522175637,-0.07354925016065139,-16.431036421850532

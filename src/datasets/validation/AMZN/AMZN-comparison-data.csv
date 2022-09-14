@@ -1,0 +1,4 @@
+,date,model,avg_point_difference,avg_perc_close,avg_perc_predicted,avg_perc_difference,avg_error_predicted
+0,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/AMZN/AMZN-mins-2epochs-extracol-validation.csv,2.6051592538104944,0.0001099980706419,9.613513950636554e-05,-1.3862931135599325e-05,0.0798998756700456
+1,2021-12-01,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/AMZN/AMZN-days-100epochs-extracol-validation.csv,10.24125135135134,0.2484618715767489,0.1241212036599048,-0.124340667916844,0.4956057111300483
+2,2021-12-04,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/AMZN/AMZN-days-100epochs-extracol-validation.csv,-17.815928651685393,0.07191892911093707,0.06938760013383943,-0.002531328977097633,-0.42503883880560706

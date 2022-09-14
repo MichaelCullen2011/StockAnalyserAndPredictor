@@ -1,0 +1,6 @@
+data,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/AAPL/AAPL-days-100epochs-extracol-validation.csv,/Users/michaelcullen/Documents/GitHub/StockAnalyserAndPredictor/datasets/validation/AAPL/AAPL-mins-2epochs-extracol-validation.csv
+avg_point_difference,-2.200031259259259,-0.0836191172697682
+avg_perc_close,0.09473879897347429,0.0001628230241889
+avg_perc_predicted,0.0938525284826358,0.0001577416552433
+avg_perc_difference,-0.0008862704908385187,-5.0813689455684e-06
+avg_error_predicted,-1.2989784236990387,-0.061211513382594

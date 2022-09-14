@@ -8,7 +8,7 @@ local_structure.egg-info/
 
 __pycache__/
 src/models/
-src/datasets/
+# src/datasets/
 
 src/test/
 src/credentials/
