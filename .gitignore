@@ -2,11 +2,13 @@
 .history/
 .vscode/
 .ipynb_checkpoints/
+build/
+dist/
+local_structure.egg-info/
 
 __pycache__/
 src/models/
 src/datasets/
-src/prediction/
 
 src/test/
 src/credentials/

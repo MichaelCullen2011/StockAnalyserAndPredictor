@@ -6,6 +6,8 @@ This project runs analysis on a specific set of stocks or a given portfolio; pro
 
 Furthermore ML models can be trained to perform predictions into the future. Using a alpha-vantage API data pipeline that pulls minute by minute stock prices or yahoo finances' API for day by day prices, various models can be built to varying degrees of accuracy.
 
+There are also presets to save scraped data to a google cloud platform SQL database (which is being used in a different project) but is useful to keep here in this project.
+
 ## Getting Started
 
 ### Installing
